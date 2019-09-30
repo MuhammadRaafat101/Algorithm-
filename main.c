@@ -1,9 +1,9 @@
-#include "problem_one.h"
+#include "problem_two.h"
 
 
 int main()
 {
 	
-	findRotationCount_Test();
+	circularArraySearch_test();
 	return 0;
 }
